@@ -1,6 +1,7 @@
 IMPORTANT
 
-The GoogleInici.html is designed with a resolution of 1366x768 with other resolutions the page breaks.
+The GoogleInici.html is designed with a resolution of 1366x768 with other resolutions the page breaks. 
+Works on google, firefox and edge
 
 The page Pàgina%20inci.html is designed in 1920x1080 resolution and only works in Firefox.
 
