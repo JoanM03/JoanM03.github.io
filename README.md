@@ -1,10 +1,10 @@
 IMPORTANT
 
-The GoogleInici.html page is the page you have to use for Google
+The GoogleInici.html is designed with a resolution of 1366x768 with other resolutions the page breaks.
 
-The page Pàgina%20inci.html is the page you have to use for Firefox.
+The page Pàgina%20inci.html is designed in 1920x1080 resolution and only works in Firefox.
 
-The page inici-mobile.html is for mobile phones.
+The inici-mobile.html page is designed for mobile phones, I don't know what resolution, but on Xiaomi Redmi note 7 it works and doesn't break.
 
 Loading Pages
 
